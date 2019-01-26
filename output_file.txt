@@ -1,0 +1,5 @@
+At line no 1 the no of characters - 3 and no of words are - 11
+At line no 2 the no of characters - 2 and no of words are - 11
+At line no 3 the no of characters - 8 and no of words are - 34
+At line no 4 the no of characters - 4 and no of words are - 21
+At line no 5 the no of characters - 8 and no of words are - 44
